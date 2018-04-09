@@ -23,6 +23,16 @@ can be managed by different teams
 
 - roots go back at least to the design principles of unix
 
+
+
 Examples of microservices apps on Github.
 
 - umermansoor/Microservices (cinema app)
+
+
+
+Example websites.
+
+- Netflix
+- eBay
+- Amazon
