@@ -75,3 +75,6 @@ Containerization eliminates the hypervisor layer as containers eun directly on t
 -thus they are muchmore lighter to Virtualization and able to run much more vms on a single host.
 flexibility is an advantange of virtualization with hypervisors (you can't run a windows containers on a linux machine)
 security (if you access a kernel ,you have access to all containers) 
+
+Docker
+- consists of a client-server models
