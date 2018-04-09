@@ -81,3 +81,7 @@ Docker
 client - docker cmd
 server - docker daemon 
 client connects to the deamon to make requests.
+
+containers - running instance of an image.
+images - layer containing os, binaries and app.
+docker can be used on other os.
