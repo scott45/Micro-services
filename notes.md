@@ -1,0 +1,7 @@
+Microservices in a nutshell (thoughtworks)
+
+- designing software apps as suites of independently deployable services.
+
+- architectural style is an approach to develop a single application as a suite of small services, each running it's own process and communicating with lightweight mechanisms, often an http resource API.
+
+- services are independently deployable by fully automated deployable workflows.
