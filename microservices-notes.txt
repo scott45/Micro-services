@@ -73,3 +73,5 @@ Virtualization notes
 
 Containerization eliminates the hypervisor layer as containers eun directly on top of the kernel of the host machine they are running. 
 -thus they are muchmore lighter to Virtualization and able to run much more vms on a single host.
+flexibility is an advantange of virtualization with hypervisors (you can't run a windows containers on a linux machine)
+security (if you access a kernel ,you have access to all containers) 
