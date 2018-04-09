@@ -23,7 +23,11 @@ can be managed by different teams
 
 - roots go back at least to the design principles of unix
 
+- monolothic architecture is an alternative to Microservices architecture.
 
+- API gateway pattern defines how clients access services.
+
+- database per service pattern describes each service with it's own database.
 
 Examples of microservices apps on Github.
 
