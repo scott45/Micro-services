@@ -14,3 +14,6 @@ monolith apps can be scaled by running many instances behind a load-balancer
 monolith apps are succesful but frustarting on change cycles, as small changes require whole app to be rebuilt and deployed. 
 hard to keep a modular structure, thus difficult to keep chnages changes of a module within itself.
 scaling requires scaling of the entire application. 
+
+- services are independently deployable
+independently scalable
