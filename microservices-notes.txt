@@ -24,7 +24,7 @@ can be managed by different teams
 deployment complexity
 Increased memory consumption 
 Deciding when it makes sense to use this approach.
-Decidinghot to partition the system into microservices.
+Deciding how to partition the system into microservices. (verb, usecase, noun, resource, unix-style --> cat, grep)
 
 - roots go back at least to the design principles of unix.
 
