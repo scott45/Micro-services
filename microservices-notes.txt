@@ -20,6 +20,8 @@ independently scalable
 services provide a firm module boundary
 services can be workflows in different programming languages
 can be managed by different teams
+- developers must deal with the additional complexity of creating a distributed system
+deployment complexity
 
 - roots go back at least to the design principles of unix.
 
