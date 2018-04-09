@@ -5,3 +5,7 @@ Microservices in a nutshell (thoughtworks)
 - architectural style is an approach to develop a single application as a suite of small services, each running it's own process and communicating with lightweight mechanisms, often an http resource API.
 
 - services are independently deployable by fully automated deployable workflows.
+
+- services maybe written in different programming languages and using different data storage technologies.
+
+- monolithic instead are built as a single unit. (clientside, database and serverside which is monolithic with single logical execution.)
