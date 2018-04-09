@@ -64,3 +64,10 @@ Containerization
 - Docker
 
 Backends for Frontends (thoughtworks) BFF pattern
+- emanated from soundcloud project by thoughtworks to migrate a monolithic rails (ios, android, web) app to microservices ecosystem. 
+
+Virtualization notes
+- use of software to emulate any environment ranging from hardware components to an entire OS.
+- technologies include VMWare, virtualbox, kvm, Xen etc
+- technologies use hypervisors, which create an intermediate layer responsible for isolating the virtual machine from the physical machine.
+ 
