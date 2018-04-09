@@ -21,13 +21,17 @@ services provide a firm module boundary
 services can be workflows in different programming languages
 can be managed by different teams
 
-- roots go back at least to the design principles of unix
+- roots go back at least to the design principles of unix.
 
 - monolothic architecture is an alternative to Microservices architecture.
 
 - API gateway pattern defines how clients access services.
 
 - database per service pattern describes each service with it's own database.
+
+- clientside and serverside discovery patterns route requests for a client to available services.
+
+- Single service per host and multiple services per host are two different deployment strategies.
 
 Examples of microservices apps on Github.
 
