@@ -12,3 +12,5 @@ Microservices in a nutshell (thoughtworks)
 logic for handling a request runs in a single process. (language dividng app into classes, functions and namespaces)
 monolith apps can be scaled by running many instances behind a load-balancer
 monolith apps are succesful but frustarting on change cycles, as small changes require whole app to be rebuilt and deployed. 
+hard to keep a modular structure, thus difficult to keep chnages changes of a module within itself.
+scaling requires scaling of the entire application. 
