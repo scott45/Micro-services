@@ -19,3 +19,10 @@ scaling requires scaling of the entire application.
 independently scalable
 services provide a firm module boundary
 services can be workflows in different programming languages
+can be managed by different teams
+
+- roots go back at least to the design principles of unix
+
+Examples of microservices apps on Github.
+
+- umermansoor/Microservices (cinema app)
