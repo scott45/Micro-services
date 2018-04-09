@@ -70,4 +70,6 @@ Virtualization notes
 - use of software to emulate any environment ranging from hardware components to an entire OS.
 - technologies include VMWare, virtualbox, kvm, Xen etc
 - technologies use hypervisors, which create an intermediate layer responsible for isolating the virtual machine from the physical machine.
- 
+
+Containerization eliminates the hypervisor layer as containers eun directly on top of the kernel of the host machine they are running. 
+-thus they are muchmore lighter to Virtualization and able to run much more vms on a single host.
