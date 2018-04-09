@@ -78,3 +78,6 @@ security (if you access a kernel ,you have access to all containers)
 
 Docker
 - consists of a client-server models
+client - docker cmd
+server - docker daemon 
+client connects to the deamon to make requests.
