@@ -9,3 +9,6 @@ Microservices in a nutshell (thoughtworks)
 - services maybe written in different programming languages and using different data storage technologies.
 
 - monolithic instead are built as a single unit. (clientside, database and serverside which is monolithic with single logical execution.)
+logic for handling a request runs in a single process. (language dividng app into classes, functions and namespaces)
+monolith apps can be scaled by running many instances behind a load-balancer
+monolith apps are succesful but frustarting on change cycles, as small changes require whole app to be rebuilt and deployed. 
