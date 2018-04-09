@@ -33,6 +33,12 @@ can be managed by different teams
 
 - Single service per host and multiple services per host are two different deployment strategies.
 
+- different ways that services can communicate include messaging and remote procedure invocation.
+
+- microservices chassis pattern encourages building microservices using a framework that handles cross-cutting concerns.
+
+
+
 Examples of microservices apps on Github.
 
 - umermansoor/Microservices (cinema app)
