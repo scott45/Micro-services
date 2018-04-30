@@ -1,1 +1,4 @@
 Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels.
+
+1. Apache Kafka
+2. RabbitMQ
