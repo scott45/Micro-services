@@ -1,0 +1,1 @@
+Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels.
