@@ -19,3 +19,9 @@ Routing
 
 clustering and HA 
 - clustering networks to form a single logical message broker.
+
+management web interface
+- browser visual 
+
+commandline web interface
+- cmd
