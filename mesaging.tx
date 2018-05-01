@@ -35,3 +35,6 @@ MSMQ (windows inbuilt messaging queue support)
 - reliable delivery of messages.
 - places failed messages on separate queues.
 - supports transactions
+
+Rabbitmq vs MSMQ
+- centralized vs decentralized.
