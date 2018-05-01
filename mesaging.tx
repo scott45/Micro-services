@@ -13,3 +13,9 @@ RabbitMQ (stephen haunts, pluralsight)
 Reliability, 
 - messages persisted to disk to guard from loss
 - message acknlwedgements to ensure messages have been recieved and stored. 
+
+Routing
+- exchanges
+
+clustering and HA 
+- clustering networks to form a single logical message broker.
