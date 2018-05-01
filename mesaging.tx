@@ -29,3 +29,5 @@ commandline web interface
 - cross platform tool, windows, macOSX, linux, and cloud platforms AWS, azure,  
 - supports a wide range of programming language environments.
 - free and paid support. 
+
+MSMQ (windows inbuilt messaging queue support)
