@@ -2,3 +2,6 @@ Use asynchronous messaging for inter-service communication. Services communicati
 
 1. Apache Kafka
 2. RabbitMQ
+
+RabbitMQ (stephen haunts, pluralsight)
+
