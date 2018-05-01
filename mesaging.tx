@@ -3,6 +3,13 @@ Use asynchronous messaging for inter-service communication. Services communicati
 1. Apache Kafka
 2. RabbitMQ
 
+
+Apache Kafka (Plant, pluralsight)
+
+
+
+
+
 RabbitMQ (stephen haunts, pluralsight)
 
 - Open source messaging system, message broker.
