@@ -38,3 +38,5 @@ MSMQ (windows inbuilt messaging queue support)
 
 Rabbitmq vs MSMQ
 - centralized vs decentralized.
+- multiplatform vs windows only.
+- standards vs no standards. 
