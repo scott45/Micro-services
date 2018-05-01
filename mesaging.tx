@@ -33,3 +33,5 @@ commandline web interface
 MSMQ (windows inbuilt messaging queue support)
 - enables apps on different servers and processes comunicate effectively.  
 - reliable delivery of messages.
+- places failed messages on separate queues.
+- supports transactions
