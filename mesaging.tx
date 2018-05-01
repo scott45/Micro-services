@@ -5,3 +5,5 @@ Use asynchronous messaging for inter-service communication. Services communicati
 
 RabbitMQ (stephen haunts, pluralsight)
 
+- Open source messaging system, message broker.
+- allows us to integrate apps together by using exchanges and queues. 
