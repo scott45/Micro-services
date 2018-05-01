@@ -9,3 +9,7 @@ RabbitMQ (stephen haunts, pluralsight)
 - allows us to integrate apps together by using exchanges and queues. 
 - implements the advanced message queue protocol (AMQP)
 - rabbitmq server written on Erlang originally designed for telecom industry by ericsoon.
+
+Reliability, 
+- messages persisted to disk to guard from loss
+- message acknlwedgements to ensure messages have been recieved and stored. 
