@@ -31,3 +31,5 @@ commandline web interface
 - free and paid support. 
 
 MSMQ (windows inbuilt messaging queue support)
+- enables apps on different servers and processes comunicate effectively.  
+- reliable delivery of messages.
